@@ -7,4 +7,4 @@ spring.application.name = zuul-gateway
 #zuul.routes.service_2.path = /api/service_2/**
 #zuul.routes.service_2.url = http://localhost:8082/
 
-eureka.client.service-url.default-zone=http://localhost:8090/eureka
+#eureka.client.service-url.default-zone=http://localhost:8090/eureka
